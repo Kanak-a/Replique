@@ -1,0 +1,122 @@
+[
+  {
+    "situation": "Being asked to stay late to complete a task",
+    "raw_reply": "i'm not staying late to deal with this",
+    "assertive_reply": "My work day concludes at five, but I will prioritize this first thing tomorrow."
+  },
+  {
+    "situation": "Telling someone to respect your focus / boundaries",
+    "raw_reply": "how do you professionally say - 'stay in your lane'",
+    "assertive_reply": "Thanks for your input, I'll keep that in mind."
+  },
+  {
+    "situation": "Responding to a colleague who tries to shift responsibility",
+    "raw_reply": "that sounds like a you problem",
+    "assertive_reply": "I understand that falls within your scope of responsibility, but I'm happy to support where it makes sense."
+  },
+  {
+    "situation": "Being asked to take on more work without additional pay",
+    "raw_reply": "so you expect me to take on more work but pay me the same?",
+    "assertive_reply": "Is the expectation here that my responsibilities and workload are evolving but I am to remain with the same job title and compensation?"
+  },
+  {
+    "situation": "Doubting the information provided",
+    "raw_reply": "I don't believe you",
+    "assertive_reply": "I am not confident that the information you have provided is correct."
+  },
+  {
+    "situation": "Being asked to do something outside your role",
+    "raw_reply": "that's not part of my job",
+    "assertive_reply": "I am not the correct person to assist with this, but I am happy to connect you with [insert name] who will be able to help."
+  },
+  {
+    "situation": "Someone complaining about your time",
+    "raw_reply": "you are wasting my time",
+    "assertive_reply": "Being respectful of time, let's regroup when more details become available."
+  },
+  {
+    "situation": "Reacting to a suggestion you find unwise",
+    "raw_reply": "that sounds like a horrible idea",
+    "assertive_reply": "Are we confident that this is the best solution or are we still exploring alternatives?"
+  },
+  {
+    "situation": "Reminder of previously communicated information",
+    "raw_reply": "i already told you this",
+    "assertive_reply": "As indicated prior, ..."
+  },
+  {
+    "situation": "Getting incomplete answers",
+    "raw_reply": "can you answer all of the questions i asked and not just pick and choose one?",
+    "assertive_reply": "Are you able to provide some clarity around the other questions previously asked?"
+  },
+  {
+    "situation": "Being interrupted",
+    "raw_reply": "Stop interrupting me",
+    "assertive_reply": "Let me finish, then I'm all ears."
+  },
+  {
+    "situation": "Being asked to do tasks beyond your compensation",
+    "raw_reply": "I am not paid enough to do this",
+    "assertive_reply": "This falls outside of my current job description, but if the opportunity for a role expansion becomes available, I would be happy to discuss reworking my contract to better align with these new responsibilities."
+  },
+  {
+    "situation": "Forgetting to respond to an email",
+    "raw_reply": "I totally forgot about your email",
+    "assertive_reply": "Thank you for your patience."
+  },
+  {
+    "situation": "Needing more information before taking action",
+    "raw_reply": "i'm going to need a lot more detail if you want me to do this",
+    "assertive_reply": "Please let me know when further details become available, as I require more information to successfully complete this task."
+  },
+  {
+    "situation": "Being contacted outside work hours",
+    "raw_reply": "stop trying to call me before my work day even starts",
+    "assertive_reply": "If you need to contact me, please note that my working hours begin at 8 am and communications received prior to this will not be seen."
+  },
+  {
+    "situation": "Reacting to a suggestion you strongly disagree with",
+    "raw_reply": "that is the dumbest thing i've ever heard",
+    "assertive_reply": "I am struggling to understand how that would be a productive next step here."
+  },
+  {
+    "situation": "Denial of an event or scenario",
+    "raw_reply": "that never happened, stop lying",
+    "assertive_reply": "We seem to recall that scenario quite differently, and I am happy to pull emails and receipts to help paint a clearer picture."
+  },
+  {
+    "situation": "Telling someone to let others speak",
+    "raw_reply": "you talk too much, give someone else a turn",
+    "assertive_reply": "It is clear where you stand on this topic [insert name]. Let's give others a chance to share their input."
+  },
+  {
+    "situation": "Doubting a colleague's credibility",
+    "raw_reply": "he has no idea what he's talking about so i wouldn't trust what he says",
+    "assertive_reply": "I am not confident that he has provided you with the correct information."
+  },
+  {
+    "situation": "Not wanting to cover a role without compensation",
+    "raw_reply": "I don't want to cover this vacant position without being paid for it",
+    "assertive_reply": "If my role is to absorb these responsibilities, I would be happy to work together on a new title and compensation to reflect this."
+  },
+  {
+    "situation": "Wondering why you were included in a meeting",
+    "raw_reply": "is there a reason i was included to this meeting",
+    "assertive_reply": "Is there a topic on the agenda that requires my involvement?"
+  },
+  {
+    "situation": "Dealing with unrealistic deadlines",
+    "raw_reply": "well, unless we build a time machine, this is going to be late",
+    "assertive_reply": "The deadlines shared are not feasible. A more realistic timeline would be [insert date range]."
+  },
+  {
+    "situation": "Feeling undercompensated",
+    "raw_reply": "i feel undercompensated and overworked",
+    "assertive_reply": "I don't feel that I am being adequately compensated for the amount of work I am completing."
+  },
+  {
+    "situation": "Observing unfair workload distribution",
+    "raw_reply": "i am tired of seeing you get paid the same as me for the no work that you do",
+    "assertive_reply": "Can you share the tasks you have on your plate so that I have a better understanding of your contributions here?"
+  }
+]
