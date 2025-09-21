@@ -1,8 +1,13 @@
 import os
 import google.generativeai as genai
+from dotenv import load_dotenv
+
+load_dotenv()
+
+api_key = os.getenb("GEMINI_KEY_API")
 
 # Configure API key
-genai.configure(api_key="AIzaSyBCWZ3GVoajqoroVzwn7tQryOh27Wgffiw")
+genai.configure(api_key)
 
 def format_reply(situation: str, user_reply: str) -> str:
     model = genai.GenerativeModel("gemini-1.5-flash")
