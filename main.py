@@ -4,10 +4,12 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-api_key = os.getenb("GEMINI_KEY_API")
+api_key = os.getenv("GEMINI_KEY_API")
+if not api_key:
+    raise RuntimeError("Missing GEMINI_KEY_API environment variable.")
 
 # Configure API key
-genai.configure(api_key)
+genai.configure(api_key=api_key)
 
 def format_reply(situation: str, user_reply: str) -> str:
     model = genai.GenerativeModel("gemini-1.5-flash")
